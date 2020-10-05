@@ -1,2 +1,7 @@
-cd /home/dev/workspace
-put 1.txt 2.txt
+qqqqqqqqqqqqqqqqqqqqq
+qqqqqqqqqqqqqqqqqqqqqqq
+qqqqqqqqqqqqqqqqqqqqqq
+qqqqqqqqqqqqqqqqqqqqqqqq
+qqqqqqqqqqqqqqqqqqqqq
+qqqqqqqqqqqqqqqqqqqq
+qqqqqqqqqqqqqqqqqqq
